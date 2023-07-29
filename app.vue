@@ -1,5 +1,7 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <Karasearchtopbar />
+    <NuxtPage />
+    <Karasearchfooter />
   </div>
 </template>
